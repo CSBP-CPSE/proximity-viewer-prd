@@ -1,11 +1,11 @@
 # proximity-viewer-prd
 
-English links: 
+Population to Building Ratio: 
 
-   pop2building: https://csbp-cpse.github.io/web-mapping-prd/proximity-viewer/index-en.html<br>
-   proximity: https://csbp-cpse.github.io/web-mapping-prd/proximity-viewer/index-en.html
+   english: https://csbp-cpse.github.io/web-mapping-prd/population-viewer/index-en.html<br>
+   french: https://csbp-cpse.github.io/web-mapping-prd/population-viewer/index-fr.html
 
-French links: 
+Proximity Measures: 
 
-   pop2building: https://csbp-cpse.github.io/web-mapping-prd/proximity-viewer/index-fr.html<br>
-   proximity: https://csbp-cpse.github.io/web-mapping-prd/proximity-viewer/index-fr.html
+   english: https://csbp-cpse.github.io/web-mapping-prd/proximity-viewer/index-en.html<br>
+   french: https://csbp-cpse.github.io/web-mapping-prd/proximity-viewer/index-fr.html
