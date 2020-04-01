@@ -1,22 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset='utf-8' />
-		<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-		<title>Linkable Open Data Environment Demo</title>
-		<link rel='shortcut icon' type='image/x-icon' href='assets/favicon.ico' />
-		<script src="./polyfill/promise.min.js"></script>
-		<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.2.0/mapbox-gl.js'></script>
-		<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.2.0/mapbox-gl.css' rel='stylesheet' />
-		<link href='index.css' rel='stylesheet' />
-	</head>
-	
+<html>
 	<body>
-		<main>
-			<div id='map-container'>
-				<div id='map'></div> 
-			</div> 
-		</main>
-		<script src='main.min.js'></script>
+		<script>
+		var regex = new RegExp('[?&]app(=([^&#]*)|&|#|$)');
+		var results = regex.exec(window.location.href);
+		
+		var url = "https://csbp-cpse.github.io/web-mapping-prd/proximity-viewer/index-en.html"
+		
+		if (!!results && results[2] == "population") url = "https://csbp-cpse.github.io/web-mapping-prd/population-viewer/index-en.html";
+		
+		window.open(url, "_self");
+		</script>
 	</body>
 </html>
