@@ -2,10 +2,10 @@
 
 English links: 
 
-   pop2building: https://csbp-cpse.github.io/population-viewer-prd/index-en.html<br>
-   proximity: https://csbp-cpse.github.io/proximity-viewer-prd/index-en.html
+   pop2building: https://csbp-cpse.github.io/web-mapping-prd/proximity-viewer/index-fr.html<br>
+   proximity: https://csbp-cpse.github.io/web-mapping-prd/proximity-viewer/index-en.html
 
 French links: 
 
-   pop2building: https://csbp-cpse.github.io/population-viewer-prd/index-fr.html<br>
-   proximity: https://csbp-cpse.github.io/proximity-viewer-prd/index-fr.html
+   pop2building: https://csbp-cpse.github.io/web-mapping-prd/proximity-viewer/index-fr.html<br>
+   proximity: https://csbp-cpse.github.io/web-mapping-prd/proximity-viewer/index-fr.html
